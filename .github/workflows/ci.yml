@@ -1,5 +1,5 @@
 name: Push-to-EC2
-
+#HAMZA TRY 
 # Trigger deployment only on push to main branch
 on:
   push:
